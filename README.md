@@ -1,5 +1,5 @@
 # S350F-GROUP24-HKMU
-S350F Gp24 Final Group Project and testing report
+S350F Gp24 Final Group Project and testing report  
 Steps to run the project
 1.import the database file(db_student.sql)in the folder
   1.1 we use Navicat for MySql(your computer should install MySql firstly)
