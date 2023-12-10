@@ -11,7 +11,7 @@ Steps to run the project
 
 2.import the django(requirement.txt)  
 
-3.run the manage.py in IDE(we use pycharm)  
+3.run the manage.py in IDE(we use pycharm and python 3.10)  
 
 4.click the generated website  
 
